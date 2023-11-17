@@ -3,6 +3,7 @@ import socket
 def start_client():
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     #change the host to the server's IPv4 address
+    #the server and client must be connected in the same server (internet connection)
     client_socket.connect(('192.168.1.6', 12345))
 
     # Authentication
