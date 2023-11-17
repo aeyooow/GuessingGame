@@ -12,6 +12,9 @@ def start_client():
     # Play the game
     play_game(client_socket)
 
+#authentication of the game
+#username: admin
+#password: admin123
 def authenticate(client_socket):
     while True:
         username = input("Enter username: ")
@@ -26,6 +29,7 @@ def authenticate(client_socket):
         if response == "Authentication successful":
             break
 
+#client: play the game
 def play_game(client_socket):
     while True:
         guess = int(input("Enter your guess (1-100): "))
