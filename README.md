@@ -14,7 +14,9 @@ Note: To run the code, make sure to change the host (already commented on the se
 
 
 Link to video:
+
 [Google Drive](https://drive.google.com/drive/folders/0APp_8dcZkavlUk9PVA)
-Server (video): https://drive.google.com/file/d/1RZJoSvJ9NkaFmTbmkoFX2oiM_u1SYXLt/view?usp=drive_link
-Client (video):
+
+
+[Video](https://drive.google.com/file/d/1gP-YYjrHXrW_WXNP9mDe3zreZtQvH4oa/view?usp=drive_link)
 Kindly contact the owner if can't open the drive and videos. Thank you.
