@@ -5,7 +5,7 @@ A requirement for Computer Science-Elective: Simple Python Guessing Game in Clie
 Guessing Game
 
 Passed By:
-Allyne Singson and Joshua Panes
+\nAllyne Singson and Joshua Panes
 Bachelor of Science in Computer Science
 3rd Year Block 1
 Palawan State University Main Campus (Tiniguiban Campus)
