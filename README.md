@@ -13,3 +13,8 @@ This is a simple python code for client and server (connected in the same intern
 Note: To run the code, make sure to change the host (already commented on the server.py) depending to the IPv4 address of the server. 
 
 
+Link to videos:
+Google Drive: https://drive.google.com/drive/folders/0APp_8dcZkavlUk9PVA
+Server (video): https://drive.google.com/file/d/1RZJoSvJ9NkaFmTbmkoFX2oiM_u1SYXLt/view?usp=drive_link
+Client (video):
+Kindly contact the owner if can't open the drive and videos. Thank you.
